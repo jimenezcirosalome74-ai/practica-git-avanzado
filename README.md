@@ -102,3 +102,6 @@ muestra este comando.
 
 ## ✅ Entrega
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
+
+## Investigación adicional
+El comando `git reflog` registra cada cambio realizado en la punta de las ramas y otras referencias del repositorio local. Permite rastrear todos los movimientos recientes del HEAD, facilitando la recuperación de commits o estados que ya no son visibles en el historial estándar.
